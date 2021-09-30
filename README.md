@@ -5,3 +5,5 @@ If the project isn't under "projects" here it's because I didn't upload it there
 In most cases, there will be codes I make on my own here and unpublished/shared prjects here.
 
 In the future I hope to try out projects publicly.
+
+Do a code project for angie to calculate trig identities. (string perhaps)
