@@ -6,4 +6,6 @@ In most cases, there will be codes I make on my own here and unpublished/shared 
 
 In the future I hope to try out projects publicly.
 
-Do a code project for angie to calculate trig identities. (string perhaps)
+Projects to do:
+-Do a code project for angie to calculate trig identities. (string perhaps)
+-create double integral caculator/triple, 3d images, etc.
