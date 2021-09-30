@@ -7,5 +7,7 @@ In most cases, there will be codes I make on my own here and unpublished/shared 
 In the future I hope to try out projects publicly.
 
 Projects to do:
--Do a code project for angie to calculate trig identities. (string perhaps)
+-Do a code project for AL to calculate trig identities. (string perhaps)
 -create double integral caculator/triple, 3d images, etc.
+-calculator for bmi.
+-caclulator for physics projectiles v=vo_at^2 etc...
