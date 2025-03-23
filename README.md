@@ -1,4 +1,4 @@
-# Mathematics-project1
+# Mathematics-calculator-projects
 ## Copyright Usage and License
 
 I have put a license for this repository as most CS "Calulators" are usally pre-coded beforehand (someone else already invented it). Other peers must also comply with the license. In the future I may modify this to include other additonal features for fun.
