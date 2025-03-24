@@ -17,19 +17,6 @@ Other Math Calculator Projects to do in the future for fun:
 -caclulator for physics projectiles v=vo_at^2 etc...
 
 
-# Java_UMGC
-## Copyright Usage and License
-
-Regarding Copyright laws by GitHub it states that a public repository without a license means that if you want to use my code you must fork my repository as I retain all proprietary rights.
-
-Links:  
-- [GitHub Copyright and Licenses](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
-- [GitHub Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)
-
-## Information
-
-These are the coding files for Java that I learned in class and assignments with my own version of the code.
-Most of these codes are beginner to intermediate level.
 
 ### Textbook
 - P. J. Deitel and H. Deitel, *Java How to Program (Early Objects), 10th ed.*, Pearson, 2015. [Online Textbook Available](https://learning.oreilly.com/library/view/javatm-how-to/9780133813036/). [Accessed: n.d.]
