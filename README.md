@@ -37,6 +37,7 @@ Most of these codes are beginner to intermediate level.
 - F. M. Carrano and T. M. Henry, *Data Abstraction & Problem Solving with C++: Walls and Mirrors, 7th ed.*, Pearson, 2021. [Online Textbook Available](https://www.pearson.com/en-us/subject-catalog/p/data-abstraction--problem-solving-with-c-walls-and-mirrors/P200000003514/9780137516759). [Accessed: n.d.]
 - A. Y. Bhargava, *Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People*, Manning, May 2016. [Online Textbook Available](https://www.manning.com/books/grokking-algorithms). [Accessed: n.d.]
 - K. Rosen, *Discrete Mathematics and Its Applications, 8th ed.*, McGraw-Hill Education, Jul. 9, 2018. [Online Textbook Available](https://www.mheducation.com/highered/product/Discrete-Mathematics-and-Its-Applications-Rosen.html). [Accessed: n.d.]
+- F. M. Dekking, C. Kraaikamp, H. P. Lopuhaa, and L. E. Meester, *Modern Introduction to Probability and Statistics*, 2005. [Online Textbook Avalible.](http://link.springer.com/book/10.1007/1-84628-168-7). [Accessed: 2023].
 
 ### Contact
 
