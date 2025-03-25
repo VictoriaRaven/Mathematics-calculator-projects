@@ -25,6 +25,7 @@ Other Math Calculator Projects to do in the future for fun:
 - A. Y. Bhargava, *Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People*, Manning, May 2016. [Online Textbook Available](https://www.manning.com/books/grokking-algorithms). [Accessed: n.d.]
 - K. Rosen, *Discrete Mathematics and Its Applications, 8th ed.*, McGraw-Hill Education, Jul. 9, 2018. [Online Textbook Available](https://www.mheducation.com/highered/product/Discrete-Mathematics-and-Its-Applications-Rosen.html). [Accessed: n.d.]
 - F. M. Dekking, C. Kraaikamp, H. P. Lopuhaa, and L. E. Meester, *Modern Introduction to Probability and Statistics*, 2005. [Online Textbook Avalible.](http://link.springer.com/book/10.1007/1-84628-168-7). [Accessed: 2023].
+- - Bradley N. Miller, David L. Ranum, and Julie Anderson, *Python Programming in Context*, 3rd ed., Jones & Bartlett Learning, Oct. 2019. [Online Textbook Available](Available: https://www.oreilly.com/library/view/python-programming-in/9781284175578/.)
 
 ### Contact
 
